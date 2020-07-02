@@ -1,0 +1,4 @@
+110,Ali Cetin,MuhendislikFakultesi 
+Imagine a mechanicall turtle that walks around the room 
+unnder the conttrol of a Java application. The turttle holds a pen 
+in one of two positions, up or doqn. The deafult position is up.

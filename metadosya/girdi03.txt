@@ -1,0 +1,4 @@
+687,Fatih Gürkan,MuhendislikFakultesi 
+Technically, computers use algorithms to list the detailed instructions 
+for carrying out an operation. For example, to compute an 
+paycheck, the computer uses an algorithm.
